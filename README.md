@@ -1,5 +1,5 @@
-# Trabajo Práctico Final - LUG
-Trabajo práctico realizado con Lucas Antiñolo.
+# Trabajo Práctico Final - Lenguaje Ultima Generacion. UAI.
+Trabajo práctico realizado con Tomas Juarez Iglesias.
 ## Stack
 - Winforms
 - .NET Framework
