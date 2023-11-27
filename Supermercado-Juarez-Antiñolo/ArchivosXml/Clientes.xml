@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <dni>1</dni>
+    <nombre>Lucas</nombre>
+    <apellido>Antiñolo</apellido>
+    <telefono>123</telefono>
+  </Table>
+  <Table>
+    <dni>2</dni>
+    <nombre>Tomas</nombre>
+    <apellido>Juarez</apellido>
+    <telefono>321</telefono>
+  </Table>
+  <Table>
+    <dni>3</dni>
+    <nombre>Pedro</nombre>
+    <apellido>Perez</apellido>
+    <telefono>456</telefono>
+  </Table>
+  <Table>
+    <dni>4</dni>
+    <nombre>Bautista</nombre>
+    <apellido>Dorelle</apellido>
+    <telefono>125355</telefono>
+  </Table>
+  <Table>
+    <dni>5</dni>
+    <nombre>Lucas</nombre>
+    <apellido>Juareaz</apellido>
+    <telefono>2341</telefono>
+  </Table>
+</NewDataSet>
