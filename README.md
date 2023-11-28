@@ -1,5 +1,5 @@
 # Trabajo Práctico Final - Lenguaje Ultima Generacion. UAI.
-Trabajo práctico realizado con Tomas Juarez Iglesias.
+Trabajo práctico realizado con Tomas Juarez Iglesias para la facultad.
 ## Stack
 - Winforms
 - .NET Framework
